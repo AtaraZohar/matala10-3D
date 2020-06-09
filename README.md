@@ -22,4 +22,6 @@
 
 ![](1.png)
 
+קישור למשחק באתר itch https://atarazohar.itch.io/new-3d-game
+
  </div>
